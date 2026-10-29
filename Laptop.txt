@@ -1,0 +1,2 @@
+Macbook,Air M1,Ryzen 7,512,16,Windows,Biru,20000000,3.78,12
+Apple,Air m1,Ryzen 9,1000,12,MAC,Silver,10000000,1.08,12
